@@ -3,3 +3,5 @@ Student1.txt
 Name: Juan Dela Cruz
 
 Grade: 90
+
+New: John Michael Reyes
